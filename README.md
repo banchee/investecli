@@ -34,8 +34,7 @@ $ echo '{"client_id": "xxxxxxxx", "client_secret": "xxxxxx"}' > ~/.investecli/cr
 
 ## Login
 
-To use the CLI, you will first need to login and retrieve a token with an expiry date. This will append to the
-~/.investecli/credentials file the token returned and the token type.
+To use the CLI, you will first need to login and retrieve a token with an expiry date. This will append to the `~/.investecli/credentials` file the token returned and the token type.
 
 ```
 $ investecli login
