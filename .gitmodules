@@ -1,0 +1,3 @@
+[submodule "rubyonrailstut"]
+	path = rubyonrailstut
+	url = https://github.com/banchee/rubyonrailstut
